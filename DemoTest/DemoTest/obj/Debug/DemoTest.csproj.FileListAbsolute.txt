@@ -1,0 +1,8 @@
+D:\xuejun\C#\DemoTest\DemoTest\bin\Debug\DemoTest.exe.config
+D:\xuejun\C#\DemoTest\DemoTest\obj\Debug\DemoTest.Properties.Resources.resources
+D:\xuejun\C#\DemoTest\DemoTest\obj\Debug\DemoTest.csproj.GenerateResource.Cache
+D:\xuejun\C#\DemoTest\DemoTest\bin\Debug\DemoTest.exe
+D:\xuejun\C#\DemoTest\DemoTest\bin\Debug\DemoTest.pdb
+D:\xuejun\C#\DemoTest\DemoTest\obj\Debug\DemoTest.exe
+D:\xuejun\C#\DemoTest\DemoTest\obj\Debug\DemoTest.pdb
+D:\xuejun\C#\DemoTest\DemoTest\obj\Debug\DemoTest.Form1.resources

@@ -1,0 +1,12 @@
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\bin\Debug\MICRO-ECM.exe.config
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\bin\Debug\MICRO-ECM.exe
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\bin\Debug\MICRO-ECM.pdb
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO-ECM.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO-ECM.csproj.ResolveComReference.cache
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO_ECM.DEMO.resources
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO_ECM.Properties.Resources.resources
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO-ECM.csproj.GenerateResource.Cache
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO-ECM.exe
+D:\xuejun\C#\MICRO-ECM\MICRO-ECM\obj\Debug\MICRO-ECM.pdb

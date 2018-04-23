@@ -1,0 +1,13 @@
+D:\xuejun\C#\ExamSystem\ExamSystem\bin\Debug\ExamSystem.exe.config
+D:\xuejun\C#\ExamSystem\ExamSystem\bin\Debug\ExamSystem.exe
+D:\xuejun\C#\ExamSystem\ExamSystem\bin\Debug\ExamSystem.pdb
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.MainForm.resources
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.Properties.Resources.resources
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.csproj.GenerateResource.Cache
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.exe
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.pdb
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.AdvancedExamForm.resources
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.PrimaryExamForm.resources
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.SecondaryExamForm.resources
+D:\xuejun\C#\ExamSystem\ExamSystem\obj\Debug\ExamSystem.AboutBox1.resources

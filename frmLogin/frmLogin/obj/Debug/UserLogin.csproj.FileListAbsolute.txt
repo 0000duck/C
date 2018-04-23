@@ -1,0 +1,15 @@
+D:\机房重构\frmLogin\frmLogin\bin\Debug\frmLogin.exe
+D:\机房重构\frmLogin\frmLogin\bin\Debug\frmLogin.pdb
+D:\机房重构\frmLogin\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+D:\机房重构\frmLogin\frmLogin\obj\Debug\UserLogin.csproj.GenerateResource.Cache
+D:\机房重构\frmLogin\frmLogin\obj\Debug\frmLogin.exe
+D:\机房重构\frmLogin\frmLogin\obj\Debug\frmLogin.pdb
+D:\机房重构\frmLogin\frmLogin\obj\Debug\frmLogin.Form1.resources
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\frmLogin.exe
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\frmLogin.pdb
+D:\xuejun\C#\frmLogin\frmLogin\bin\Debug\frmLogin.exe
+D:\xuejun\C#\frmLogin\frmLogin\bin\Debug\frmLogin.pdb
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\UserLogin.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\frmLogin.Form1.resources
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+D:\xuejun\C#\frmLogin\frmLogin\obj\Debug\UserLogin.csproj.GenerateResource.Cache

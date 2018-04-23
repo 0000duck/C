@@ -1,0 +1,9 @@
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.Form1.resources
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.frmSetup.resources
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.Properties.Resources.resources
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.csproj.GenerateResource.Cache
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.exe
+D:\xuejun\C#\ScreenShot-master\Screenshot\Screenshot\obj\x86\Debug\Screenshot.pdb

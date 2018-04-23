@@ -1,0 +1,12 @@
+D:\xuejun\C#\WechatJump\WechatJump\bin\Debug\WechatJump.exe.config
+D:\xuejun\C#\WechatJump\WechatJump\bin\Debug\WechatJump.exe
+D:\xuejun\C#\WechatJump\WechatJump\bin\Debug\WechatJump.pdb
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.Form1.resources
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.Properties.Resources.resources
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.csproj.GenerateResource.Cache
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.exe
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.pdb
+D:\xuejun\C#\WechatJump\WechatJump\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\WechatJump\WechatJump\obj\Debug\WechatJump.csproj.ResolveComReference.cache

@@ -1,0 +1,8 @@
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\bin\Debug\WindowsApplication2.exe
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\bin\Debug\WindowsApplication2.pdb
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\bin\Debug\ZedGraph.dll
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\obj\Debug\ZGControlTest.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\obj\Debug\WindowsApplication2.Form1.resources
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\obj\Debug\WindowsApplication2.exe
+D:\xuejun\C#\ZedGraph_Control_Test\ZGControlTestCs\obj\Debug\WindowsApplication2.pdb

@@ -1,0 +1,9 @@
+D:\xuejun\C#\TestExcel\TestExcel\bin\Debug\TestExcel.exe.config
+D:\xuejun\C#\TestExcel\TestExcel\bin\Debug\TestExcel.exe
+D:\xuejun\C#\TestExcel\TestExcel\bin\Debug\TestExcel.pdb
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.csproj.ResolveComReference.cache
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.WriteToExcel.resources
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.Properties.Resources.resources
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.exe
+D:\xuejun\C#\TestExcel\TestExcel\obj\Debug\TestExcel.pdb

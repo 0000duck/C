@@ -1,0 +1,9 @@
+D:\xuejun\C#\PushBear\PushBear\bin\Debug\PushBear.exe.config
+D:\xuejun\C#\PushBear\PushBear\bin\Debug\PushBear.exe
+D:\xuejun\C#\PushBear\PushBear\bin\Debug\PushBear.pdb
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.Form1.resources
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.Properties.Resources.resources
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.csproj.GenerateResource.Cache
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.exe
+D:\xuejun\C#\PushBear\PushBear\obj\Debug\PushBear.pdb

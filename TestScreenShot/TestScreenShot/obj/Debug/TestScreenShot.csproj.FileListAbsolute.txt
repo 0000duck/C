@@ -1,0 +1,9 @@
+D:\xuejun\C#\TestScreenShot\TestScreenShot\bin\Debug\TestScreenShot.exe.config
+D:\xuejun\C#\TestScreenShot\TestScreenShot\bin\Debug\TestScreenShot.exe
+D:\xuejun\C#\TestScreenShot\TestScreenShot\bin\Debug\TestScreenShot.pdb
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.Form1.resources
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.Properties.Resources.resources
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.exe
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.pdb
+D:\xuejun\C#\TestScreenShot\TestScreenShot\obj\Debug\TestScreenShot.csprojResolveAssemblyReference.cache

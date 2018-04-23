@@ -1,0 +1,9 @@
+D:\xuejun\C#\TestScreen\TestScreen\bin\Debug\TestScreen.exe.config
+D:\xuejun\C#\TestScreen\TestScreen\bin\Debug\TestScreen.exe
+D:\xuejun\C#\TestScreen\TestScreen\bin\Debug\TestScreen.pdb
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.Form1.resources
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.Properties.Resources.resources
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.exe
+D:\xuejun\C#\TestScreen\TestScreen\obj\Debug\TestScreen.pdb

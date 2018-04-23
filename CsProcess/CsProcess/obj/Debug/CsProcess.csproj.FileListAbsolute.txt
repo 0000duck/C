@@ -1,0 +1,8 @@
+D:\xuejun\C#\CsProcess\CsProcess\bin\Debug\CsProcess.exe.config
+D:\xuejun\C#\CsProcess\CsProcess\bin\Debug\CsProcess.exe
+D:\xuejun\C#\CsProcess\CsProcess\bin\Debug\CsProcess.pdb
+D:\xuejun\C#\CsProcess\CsProcess\obj\Debug\CsProcess.MianForm.resources
+D:\xuejun\C#\CsProcess\CsProcess\obj\Debug\CsProcess.Properties.Resources.resources
+D:\xuejun\C#\CsProcess\CsProcess\obj\Debug\CsProcess.csproj.GenerateResource.Cache
+D:\xuejun\C#\CsProcess\CsProcess\obj\Debug\CsProcess.exe
+D:\xuejun\C#\CsProcess\CsProcess\obj\Debug\CsProcess.pdb

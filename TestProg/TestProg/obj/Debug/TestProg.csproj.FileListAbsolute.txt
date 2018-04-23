@@ -1,0 +1,10 @@
+D:\xuejun\C#\TestProg\TestProg\bin\Debug\TestProg.exe.config
+D:\xuejun\C#\TestProg\TestProg\bin\Debug\TestProg.exe
+D:\xuejun\C#\TestProg\TestProg\bin\Debug\TestProg.pdb
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.DEMO.resources
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.Properties.Resources.resources
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.exe
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.pdb
+D:\xuejun\C#\TestProg\TestProg\obj\Debug\TestProg.GraphicPic.resources

@@ -1,0 +1,12 @@
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\bin\Debug\Wechat_Jump.exe.config
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\bin\Debug\Wechat_Jump.exe
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\bin\Debug\Wechat_Jump.pdb
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.Properties.Resources.resources
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.csproj.GenerateResource.Cache
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.exe
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.pdb
+D:\xuejun\C#\Wechat_Jump\Wechat_Jump\obj\Debug\Wechat_Jump.Form1.resources
+D:\xuejun\C#\Wechat_Jump_PMAC\Wechat_Jump\bin\Debug\Wechat_Jump.exe.config
+D:\xuejun\C#\Wechat_Jump_PMAC\Wechat_Jump\obj\Debug\Wechat_Jump.exe
+D:\xuejun\C#\Wechat_Jump_PMAC\Wechat_Jump\obj\Debug\Wechat_Jump.pdb

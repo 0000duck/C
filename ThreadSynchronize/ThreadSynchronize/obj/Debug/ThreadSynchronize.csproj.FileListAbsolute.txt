@@ -1,0 +1,1 @@
+D:\xuejun\C#\ThreadSynchronize\ThreadSynchronize\bin\Debug\ThreadSynchronize.exe.config

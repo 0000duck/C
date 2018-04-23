@@ -1,0 +1,9 @@
+D:\xuejun\C#\TestCSV\TestCSV\bin\Debug\TestCSV.exe.config
+D:\xuejun\C#\TestCSV\TestCSV\bin\Debug\TestCSV.exe
+D:\xuejun\C#\TestCSV\TestCSV\bin\Debug\TestCSV.pdb
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.Form1.resources
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.Properties.Resources.resources
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.exe
+D:\xuejun\C#\TestCSV\TestCSV\obj\Debug\TestCSV.pdb

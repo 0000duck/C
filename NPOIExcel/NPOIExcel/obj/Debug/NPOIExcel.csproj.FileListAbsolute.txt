@@ -1,0 +1,15 @@
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOIExcel.exe.config
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOIExcel.exe
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOIExcel.pdb
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOI.dll
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOI.OOXML.dll
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOI.OpenXml4Net.dll
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\xuejun\C#\NPOIExcel\NPOIExcel\bin\Debug\NPOI.xml
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.Form1.resources
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.Properties.Resources.resources
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.csproj.GenerateResource.Cache
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.exe
+D:\xuejun\C#\NPOIExcel\NPOIExcel\obj\Debug\NPOIExcel.pdb

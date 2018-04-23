@@ -1,0 +1,8 @@
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.exe
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.pdb
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\bin\Debug\WindowsApplication40.exe
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\bin\Debug\WindowsApplication40.pdb
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.Form1.resources
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.Properties.Resources.resources
+D:\xuejun\C#\Bitmap类和PictureBox控件实现显示，保存\WindowsApplication40\obj\Debug\WindowsApplication40.csproj.GenerateResource.Cache

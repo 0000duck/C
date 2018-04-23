@@ -1,0 +1,10 @@
+E:\demo\ShowAndroidModel\ShowAndroidModel\bin\Debug\ShowAndroidModel.exe
+E:\demo\ShowAndroidModel\ShowAndroidModel\bin\Debug\ShowAndroidModel.pdb
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.Form1.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.Properties.Resources.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.SetupForm.resources
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.csproj.GenerateResource.Cache
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.exe
+E:\demo\ShowAndroidModel\ShowAndroidModel\obj\Debug\ShowAndroidModel.pdb
+D:\xuejun\C#\ShowAndroidModel\obj\Debug\ShowAndroidModel.exe
+D:\xuejun\C#\ShowAndroidModel\obj\Debug\ShowAndroidModel.pdb

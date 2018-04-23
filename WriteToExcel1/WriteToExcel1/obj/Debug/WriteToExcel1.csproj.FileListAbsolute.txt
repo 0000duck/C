@@ -1,0 +1,10 @@
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\bin\Debug\WriteToExcel1.exe.config
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.csproj.ResolveComReference.cache
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.Form1.resources
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.Properties.Resources.resources
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.csproj.GenerateResource.Cache
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\bin\Debug\WriteToExcel1.exe
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\bin\Debug\WriteToExcel1.pdb
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.exe
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.pdb
+D:\xuejun\C#\WriteToExcel1\WriteToExcel1\obj\Debug\WriteToExcel1.csprojResolveAssemblyReference.cache

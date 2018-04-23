@@ -1,0 +1,9 @@
+D:\xuejun\C#\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe.config
+D:\xuejun\C#\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+D:\xuejun\C#\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.MainForm.resources
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.Properties.Resources.resources
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.GenerateResource.Cache
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.exe
+D:\xuejun\C#\ThreadTest\ThreadTest\obj\Debug\ThreadTest.pdb

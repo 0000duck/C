@@ -1,0 +1,17 @@
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.pdb
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+D:\xuejun\C#\DemoRealChart\bin\Debug\DemoRealChart.exe
+D:\xuejun\C#\DemoRealChart\bin\Debug\DemoRealChart.pdb
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoRealChart.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+D:\xuejun\C#\DemoRealChart\obj\x86\Debug\DemoRealChart.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\xuejun\C#\TestP\TestP\bin\Debug\TestP.exe.config
+D:\xuejun\C#\TestP\TestP\bin\Debug\TestP.exe
+D:\xuejun\C#\TestP\TestP\bin\Debug\TestP.pdb
+D:\xuejun\C#\TestP\TestP\obj\Debug\TestP.Form1.resources
+D:\xuejun\C#\TestP\TestP\obj\Debug\TestP.Properties.Resources.resources
+D:\xuejun\C#\TestP\TestP\obj\Debug\TestP.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestP\TestP\obj\Debug\TestP.exe
+D:\xuejun\C#\TestP\TestP\obj\Debug\TestP.pdb

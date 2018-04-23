@@ -1,0 +1,13 @@
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\bin\Debug\Micro-ECM-V1.0.exe.config
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro_ECM_V1._0.DEMO.resources
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro_ECM_V1._0.Properties.Resources.resources
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro-ECM-V1.0.csproj.GenerateResource.Cache
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\bin\Debug\Micro-ECM-V1.0.exe
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\bin\Debug\Micro-ECM-V1.0.pdb
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro-ECM-V1.0.exe
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro-ECM-V1.0.pdb
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro_ECM_V1._0.AboutBox1.resources
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\bin\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Interop.PCOMMSERVERLib.dll
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro-ECM-V1.0.csproj.ResolveComReference.cache
+D:\xuejun\C#\Micro-ECM-V1.0\Micro-ECM-V1.0\obj\Debug\Micro-ECM-V1.0.csprojResolveAssemblyReference.cache

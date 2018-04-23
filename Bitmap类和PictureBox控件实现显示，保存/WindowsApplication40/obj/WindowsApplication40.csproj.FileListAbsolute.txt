@@ -1,0 +1,8 @@
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\ResolveAssemblyReference.cache
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\WindowsApplication40.Form1.resources
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\WindowsApplication40.Properties.Resources.resources
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\WindowsApplication40.csproj.GenerateResource.Cache
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\bin\Debug\WindowsApplication40.exe
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\bin\Debug\WindowsApplication40.pdb
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\WindowsApplication40.exe
+E:\我的文档\Visual Studio 2005\Projects\WindowsApplication40\WindowsApplication40\obj\Debug\WindowsApplication40.pdb

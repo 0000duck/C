@@ -1,0 +1,6 @@
+D:\xuejun\C#\TestFile\TestFile\bin\Debug\TestFile.exe.config
+D:\xuejun\C#\TestFile\TestFile\bin\Debug\TestFile.exe
+D:\xuejun\C#\TestFile\TestFile\bin\Debug\TestFile.pdb
+D:\xuejun\C#\TestFile\TestFile\obj\Debug\TestFile.exe
+D:\xuejun\C#\TestFile\TestFile\obj\Debug\TestFile.pdb
+D:\xuejun\C#\TestFile\TestFile\obj\Debug\TestFile.csprojResolveAssemblyReference.cache

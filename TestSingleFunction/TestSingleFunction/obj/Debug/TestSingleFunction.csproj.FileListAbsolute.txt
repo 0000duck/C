@@ -1,0 +1,9 @@
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\bin\Debug\TestSingleFunction.exe.config
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\bin\Debug\TestSingleFunction.exe
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\bin\Debug\TestSingleFunction.pdb
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.Form1.resources
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.Properties.Resources.resources
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.csproj.GenerateResource.Cache
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.exe
+D:\xuejun\C#\TestSingleFunction\TestSingleFunction\obj\Debug\TestSingleFunction.pdb

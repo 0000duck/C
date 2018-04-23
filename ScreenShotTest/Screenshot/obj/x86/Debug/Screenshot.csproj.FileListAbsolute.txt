@@ -1,0 +1,17 @@
+E:\Devlop\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+E:\Devlop\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\Screenshot.Form1.resources
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\Screenshot.Properties.Resources.resources
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\Screenshot.exe
+E:\Devlop\Screenshot\Screenshot\obj\x86\Debug\Screenshot.pdb
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.exe
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.pdb
+D:\xuejun\C#\ScreenShotTest\Screenshot\bin\Debug\Screenshot.exe
+D:\xuejun\C#\ScreenShotTest\Screenshot\bin\Debug\Screenshot.pdb
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.csprojResolveAssemblyReference.cache
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.Form1.resources
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.Properties.Resources.resources
+D:\xuejun\C#\ScreenShotTest\Screenshot\obj\x86\Debug\Screenshot.csproj.GenerateResource.Cache
